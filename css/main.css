@@ -1,6 +1,7 @@
 body {
   background-color: #fdf6e3;
 }
+
 header, footer {
   font-size: 1.5rem;
 }
@@ -12,6 +13,7 @@ nav > ul {
 .logo {
   text-transform: uppercase;
 }
+
 .wrapper {
   backgound-color: #eee8d5;
 }
